@@ -1,0 +1,1196 @@
+﻿
+@media screen and (max-width:950px) {
+    .container-small {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .padd-right {
+        padding-right: 15px !important;
+    }
+
+    .padd-left {
+        padding-left: 15px !important;
+    }
+
+    /********************start**********************************/
+
+    /*********top*******/
+    .top-header-icons {
+        text-align: center!important;
+        margin: 7px 0px 0px 0px;
+    }
+
+    .top-header-icons-ul li a {
+        float: none!important;
+        text-align: center!important;
+        padding: 0px 10px 0px 0px;
+        font-size: 14px;
+    }
+
+    .top-icons {
+        text-align: center;
+    }
+
+    .top-icons-ul li {
+        float: none;
+    }
+
+        .top-icons-ul li a {
+            float: none;
+            padding: 0px 5px 0px 5px;
+            font-size: 13px;
+        }
+
+    .top-header-icons-ul {
+        margin: 0px 0px 5px 0px;
+        text-align: center;
+    }
+
+    .top-header-sec {
+        height: auto;
+    }
+
+    .downicon-mm {
+        display: none;
+    }
+
+
+    /*********logo header ****************/
+    .headersec-logo {
+        margin: 0px auto;
+    }
+
+    /********logo***********/
+    .logo-sec-two {
+        margin: 0px 0px 0px 0px !important;
+        padding: 5px 0px 5px 0px!important;
+    }
+
+    .top-icons-ul {
+        text-align: center;
+        display: none;
+    }
+
+    .logohead {
+        display: none;
+    }
+
+    .top-icons22 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .top-icons22-ul li a {
+        margin: 0px 0px 0px 0px;
+        font-size: 11.5px;
+    }
+
+    /***************menu***************/
+    .menu-sec {
+        margin: 0px 0px 0px 0px!important;
+    }
+
+    .menu-secmm {
+        height: auto!important;
+    }
+
+    .logof {
+        margin: 0px 0px 0px 0px!important;
+    }
+
+
+
+    /***************slider***************/
+    .indicators-line > .carousel-indicators {
+        display: inherit;
+    }
+
+    .slide-text {
+        display: none;
+    }
+
+    .control-round .carousel-control {
+        top: 38% !important;
+    }
+    /**********about second******/
+
+    .aboutworking {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .aboutworking-main {
+        margin: 0px 0px 30px 0px;
+    }
+
+    .working-timesetexth2 {
+        margin: 0px 0px 0px 0px;
+    }
+
+    /**************about us**************/
+    .aboutdefault {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .aboutdefault-texth2 {
+        margin: 20px 0px 0px 0px;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .aboutdefault-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .aboutdefault-textp {
+        text-align: justify;
+    }
+
+
+    .aboutsecimag33 {
+        margin: 30px 0px 0px 0px;
+    }
+
+
+    /*************height qualified***********/
+    .soltext-texth2 {
+        text-align: center;
+    }
+
+    .soltext-text {
+        margin: 30px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .soltext-text-h1 {
+        text-align: center;
+        font-size: 22px;
+        line-height: 29px;
+    }
+
+    .soltext-textp {
+        text-align: justify;
+    }
+
+    .solutions-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /************best practice*********/
+    .bestpractice-text {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 30px 0px;
+    }
+
+    .bestpractice-texth2 {
+        text-align: center;
+    }
+
+    .bestpractice-text-h1 {
+        font-size: 25px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .bestpractice-textp {
+        text-align: justify;
+    }
+
+    .bestpractice-mar {
+        padding-right: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .bestpractice-sect {
+        margin: 30px 0px 30px 0px;
+    }
+
+    .bestprac-btnn {
+        text-align: center;
+        padding: 0px 0px 40px 0px;
+    }
+
+    .bestpractice-a {
+        width: 150px;
+        margin: 0px auto;
+        padding: 10px 27px 12px;
+        float: none;
+        display: block;
+    }
+
+    .our-bestpractice-main {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .our-bestpractice-a {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    /**************gallery*************/
+    .gllery-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .agileits-img {
+        margin: 0px 0px 15px 0px !important;
+    }
+
+    /***********qualified*************/
+    .qualified-texth2 {
+        text-align: center;
+    }
+
+    .qualified-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        padding: 20px 0px 30px 0px;
+    }
+
+    .qualified-ul li {
+        text-align: justify;
+    }
+
+    .qualified-a {
+        margin: 0px 0px 20px 0px;
+    }
+
+
+    .counter-content {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .countersection22 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    /***********tab*/
+
+    .tab .nav-tabs li a {
+        margin: 8px auto !important;
+    }
+
+    .chooseus-section {
+        margin: 30px 0px 30px 0px;
+    }
+
+    .tab .tab-content h3 {
+        margin: 20px 0px 10px 0px;
+    }
+
+    .tab .tab-content {
+        text-align: justify;
+    }
+
+    /***********patient says*/
+
+    .patientsays-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .patientsays-textmm-p {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .patientsays-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /**********team*/
+    .our_team-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .our_team {
+        margin: 30px 0px 20px 0px !important;
+    }
+
+    .teamhover-sec {
+        margin: 20px 0px 0px 0px;
+    }
+
+    /************footer*************/
+    .quick-links {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .about-footer-sec-h2 {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .footer-down-iner p {
+        text-align: center;
+    }
+
+    .footer-down-iner2 {
+        float: none;
+    }
+
+    .designer_link2 {
+        text-align: center;
+    }
+
+    .designerlin66 {
+        float: none;
+    }
+
+    .main-footer-top {
+        margin: 0px 0px 0px 0px;
+        padding: 30px 0px 0px 0px;
+    }
+
+    /*********contact us*/
+    .aboutus-pagetext-h2 {
+        font-size: 18px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+
+
+    .aboutus-pagetext-ul {
+        width: 100%;
+        text-align: center;
+        padding: 5px 5px;
+    }
+
+    .aboutus-page-bg {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .cont-secbox22 {
+        font-size: 30px !important;
+    }
+
+    .contact-secbox2 {
+        padding: 0px 0px 0px 50px;
+    }
+
+    .messbox-sec-h2 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .formcontrol {
+        margin: 0px 0px 10px 0px;
+    }
+
+    .texbox-border {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .contactus-sec {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .contactus-locationsec {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .cont-loca {
+        height: 300px;
+    }
+
+    .p-page {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .background-images22 {
+        height: 130px;
+    }
+
+    .contactlocgin {
+        margin: 10px 0px 0px 0px;
+    }
+
+
+    .pagesect-textmission {
+        margin: 10px 0px 0px 0px;
+        font-size: 20px;
+    }
+
+    .keypoint-main {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .buttonsubmit {
+        margin: 2px 0px 0px 0px;
+        padding: 0px 0px 0px 15px;
+    }
+
+    .course-bar span {
+        font-size: 11px;
+    }
+
+    .admin-name {
+        font-size: 11px;
+    }
+
+    .login-buttonsec-a {
+        width: 88px !important;
+        font-size: 13px!important;
+    }
+
+    .locationbackgrou {
+        margin: 30px 0px 0px 0px;
+    }
+    /**************media*about page*/
+    .allpage-text-p {
+        text-align: justify;
+    }
+
+    .intimages {
+        margin: 10px 0px 5px 0px;
+    }
+
+    .pagedata-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /*****************mission************/
+    .missionbox-location-se {
+        border-right: none;
+        margin: 0px 0px 0px 0px!important;
+        padding: 20px 15px 30px 15px!important;
+        border-bottom: 1px solid #ffd800;
+    }
+
+    .missionbox335 {
+        display: none !important;
+    }
+
+    .missionbox {
+        width: 100%;
+        padding: 0px 15px 0px 15px;
+    }
+
+    .missionbox444 {
+        position: inherit;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    /**************dream*************/
+    .makeour-dreammmm22 {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .makeour-dreammmm1 {
+        width: 100%;
+    }
+
+    .dreammmm22-text-h1 {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        line-height: 40px;
+        font-size: 30px;
+    }
+
+    .dreammmm2233 {
+        margin: 20px 0px 20px 0px;
+    }
+
+    .dreammmm22-a {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .makeour-dreammmm22 {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .makeour-dream {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /**************brand*************/
+    .brand-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .brand-seccc {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /**************principal mess*************/
+
+    .principalmess-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+        margin: 10px 0px 0px 0px;
+    }
+
+    .principalmess-33 {
+        margin: 10px 0px 20px 0px;
+    }
+
+    .principalmess-images {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .principalmess-textp {
+        text-align: justify;
+    }
+
+    .principalmess {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /************patient*/
+    .patinet-box {
+        padding: 60px 15px 20px 15px;
+    }
+
+    .item-holder {
+        padding: 0px 0px !important;
+    }
+
+    .team-imgsec-a img {
+        width: 70px !important;
+        height: 70px;
+    }
+
+    .team-imgsec-a {
+        top: 5px;
+        left: 35%;
+    }
+
+    .team-imgsec-p {
+        margin: 30px 0px 0px 0px;
+        text-align: justify;
+    }
+
+    .studentssayss-text-h1 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    /************articles**************/
+    .aboutworking-text-h1 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    .eyeseves44-a {
+        margin: 20px 0px 0px 0px;
+    }
+
+
+    .text-headingtt-h2 {
+        font-size: 25px !important;
+        line-height: 30px!important;
+    }
+
+    .updatingsoon-sec-h2 {
+        font-size: 22px;
+    }
+
+    .container-small {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .padd-right {
+        padding-right: 15px !important;
+    }
+
+    .padd-left {
+        padding-left: 15px !important;
+    }
+
+    /********************start**********************************/
+
+    /*********top*******/
+    .top-header-icons {
+        text-align: center!important;
+        margin: 7px 0px 0px 0px;
+    }
+
+    .top-header-icons-ul li a {
+        float: none!important;
+        text-align: center!important;
+        padding: 0px 10px 0px 0px;
+        font-size: 14px;
+    }
+
+    .top-icons {
+        text-align: center;
+    }
+
+    .top-icons-ul li {
+        float: none;
+    }
+
+        .top-icons-ul li a {
+            float: none;
+            padding: 0px 5px 0px 5px;
+            font-size: 13px;
+        }
+
+    .top-header-icons-ul {
+        margin: 0px 0px 5px 0px;
+        text-align: center;
+    }
+
+    .top-header-sec {
+        height: auto;
+    }
+
+    .downicon-mm {
+        display: none;
+    }
+
+
+    /*********logo header ****************/
+    .headersec-logo {
+        margin: 0px auto;
+    }
+
+    /********logo***********/
+    .logo-sec-two {
+        margin: 0px 0px 0px 0px !important;
+        padding: 5px 0px 5px 0px!important;
+    }
+
+    .top-icons-ul {
+        text-align: center;
+        display: none;
+    }
+
+    .logohead {
+        display: none;
+    }
+
+    .top-icons22 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .top-icons22-ul li a {
+        margin: 0px 0px 0px 0px;
+        font-size: 11.5px;
+    }
+
+    /***************menu***************/
+    .menu-sec {
+        margin: 0px 0px 0px 0px!important;
+    }
+
+    .menu-secmm {
+        height: auto!important;
+    }
+
+    .logof {
+        margin: 0px 0px 0px 0px!important;
+    }
+
+
+
+    /***************slider***************/
+    .indicators-line > .carousel-indicators {
+        display: inherit;
+    }
+
+    .slide-text {
+        display: none;
+    }
+
+    .control-round .carousel-control {
+        top: 38% !important;
+    }
+    /**********about second******/
+
+    .aboutworking {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .aboutworking-main {
+        margin: 0px 0px 30px 0px;
+    }
+
+    .working-timesetexth2 {
+        margin: 0px 0px 0px 0px;
+    }
+
+    /**************about us**************/
+    .aboutdefault {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .aboutdefault-texth2 {
+        margin: 20px 0px 0px 0px;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    .aboutdefault-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .aboutdefault-textp {
+        text-align: justify;
+        font-size: 17px;
+    }
+
+
+    .aboutsecimag33 {
+        margin: 30px 0px 0px 0px;
+    }
+
+
+    /*************height qualified***********/
+    .soltext-texth2 {
+        text-align: center;
+    }
+
+    .soltext-text {
+        margin: 30px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .soltext-text-h1 {
+        text-align: center;
+        font-size: 22px;
+        line-height: 29px;
+    }
+
+    .soltext-textp {
+        text-align: justify;
+    }
+
+    .solutions-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /************best practice*********/
+    .bestpractice-text {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 30px 0px;
+    }
+
+    .bestpractice-texth2 {
+        text-align: center;
+    }
+
+    .bestpractice-text-h1 {
+        font-size: 25px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .bestpractice-textp {
+        text-align: justify;
+    }
+
+    .bestpractice-mar {
+        padding-right: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .bestpractice-sect {
+        margin: 30px 0px 30px 0px;
+    }
+
+    .bestprac-btnn {
+        text-align: center;
+        padding: 0px 0px 40px 0px;
+    }
+
+    .bestpractice-a {
+        width: 150px;
+        margin: 0px auto;
+        padding: 10px 27px 12px;
+        float: none;
+        display: block;
+    }
+
+    .our-bestpractice-main {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .our-bestpractice-a {
+        font-size: 22px;
+    }
+
+
+    /**************gallery*************/
+    .gllery-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .agileits-img {
+        margin: 0px 0px 15px 0px !important;
+    }
+
+    /***********qualified*************/
+    .qualified-texth2 {
+        text-align: center;
+    }
+
+    .qualified-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        padding: 20px 0px 30px 0px;
+    }
+
+    .qualified-ul li {
+        text-align: justify;
+    }
+
+    .qualified-a {
+        margin: 0px 0px 20px 0px;
+    }
+
+
+    .counter-content {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .countersection22 {
+        padding: 30px 0px 10px 0px;
+    }
+
+    /***********tab*/
+
+    .tab .nav-tabs li a {
+        margin: 8px auto !important;
+    }
+
+    .chooseus-section {
+        margin: 30px 0px 30px 0px;
+    }
+
+    .tab .tab-content h3 {
+        margin: 20px 0px 10px 0px;
+    }
+
+    .tab .tab-content {
+        text-align: justify;
+    }
+
+    /***********patient says*/
+
+    .patientsays-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .patientsays-textmm-p {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .patientsays-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /**********team*/
+    .our_team-textmm-h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .our_team {
+        margin: 30px 0px 20px 0px !important;
+    }
+
+    .teamhover-sec {
+        margin: 20px 0px 0px 0px;
+    }
+
+    /************footer*************/
+    .quick-links {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .about-footer-sec-h2 {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .footer-down-iner p {
+        text-align: center;
+    }
+
+    .footer-down-iner2 {
+        float: none;
+    }
+
+    .designer_link2 {
+        text-align: center;
+    }
+
+    .designerlin66 {
+        float: none;
+    }
+
+    .main-footer-top {
+        margin: 0px 0px 0px 0px;
+        padding: 30px 0px 0px 0px;
+    }
+
+    /*********contact us*/
+    .aboutus-pagetext-h2 {
+        font-size: 18px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+
+
+    .aboutus-pagetext-ul {
+        width: 100%;
+        text-align: center;
+        padding: 5px 5px;
+    }
+
+    .aboutus-page-bg {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .cont-secbox22 {
+        font-size: 30px !important;
+    }
+
+    .contact-secbox2 {
+        padding: 0px 0px 0px 40px;
+    }
+
+    .messbox-sec-h2 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .formcontrol {
+        margin: 0px 0px 10px 0px;
+    }
+
+    .texbox-border {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .contactus-sec {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .contactus-locationsec {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .cont-loca {
+        height: 300px;
+    }
+
+    .p-page {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .background-images22 {
+        height: 130px;
+    }
+
+    .contactlocgin {
+        margin: 10px 0px 0px 0px;
+    }
+
+
+    .pagesect-textmission {
+        margin: 10px 0px 0px 0px;
+        font-size: 20px;
+    }
+
+    .keypoint-main {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .buttonsubmit {
+        margin: 2px 0px 0px 0px;
+        padding: 0px 0px 0px 15px;
+    }
+
+    .course-bar span {
+        font-size: 11px;
+    }
+
+    .admin-name {
+        font-size: 11px;
+    }
+
+    .login-buttonsec-a {
+        width: 88px !important;
+        font-size: 13px!important;
+    }
+
+    .locationbackgrou {
+        margin: 30px 0px 0px 0px;
+    }
+    /**************media*about page*/
+    .allpage-text-p {
+        text-align: justify;
+    }
+
+    .intimages {
+        margin: 10px 0px 5px 0px;
+    }
+
+    .pagedata-sec {
+        padding: 30px 0px 30px 0px;
+    }
+
+    /*****************mission************/
+    .missionbox-location-se {
+        border-right: none;
+        margin: 0px 0px 0px 0px!important;
+        padding: 20px 15px 30px 15px!important;
+        border-bottom: 1px solid #ffd800;
+    }
+
+    .missionbox335 {
+        display: none !important;
+    }
+
+    .missionbox {
+        width: 100%;
+        padding: 0px 15px 0px 15px;
+    }
+
+    .missionbox444 {
+        position: inherit;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    /**************dream*************/
+    .makeour-dreammmm22 {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .makeour-dreammmm1 {
+        width: 100%;
+    }
+
+    .dreammmm22-text-h1 {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        line-height: 40px;
+        font-size: 30px;
+    }
+
+    .dreammmm2233 {
+        margin: 20px 0px 20px 0px;
+    }
+
+    .dreammmm22-a {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .makeour-dreammmm22 {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .makeour-dream {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /**************brand*************/
+    .brand-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .brand-seccc {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /**************principal mess*************/
+
+    .principalmess-text-h1 {
+        font-size: 25px;
+        line-height: 30px;
+        margin: 10px 0px 0px 0px;
+    }
+
+    .principalmess-33 {
+        margin: 10px 0px 20px 0px;
+    }
+
+    .principalmess-images {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .principalmess-textp {
+        text-align: justify;
+    }
+
+    .principalmess {
+        margin: 0px 0px 30px 0px;
+    }
+
+    /************patient*/
+    .patinet-box {
+        padding: 60px 15px 20px 15px;
+    }
+
+    .item-holder {
+        padding: 0px 0px !important;
+    }
+
+    .team-imgsec-a img {
+        width: 70px !important;
+        height: 70px;
+    }
+
+    .team-imgsec-a {
+        top: 5px;
+        left: 35%;
+    }
+
+    .team-imgsec-p {
+        margin: 30px 0px 0px 0px;
+        text-align: justify;
+    }
+
+    .studentssayss-text-h1 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    /************articles**************/
+    .aboutworking-text-h1 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    .eyeseves44-a {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .text-headingtt-h2 {
+        font-size: 25px !important;
+        line-height: 30px!important;
+    }
+
+    .updatingsoon-sec-h2 {
+        font-size: 22px;
+    }
+
+ .latesndd {
+    margin: 0px 0px 30px 0px;
+  
+}
+
+}
